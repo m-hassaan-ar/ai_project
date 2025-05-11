@@ -1,7 +1,5 @@
 # Nine Men’s Morris – Python CLI Edition with Time‑Bomb Variant
 
-![Game preview](./docs/screenshot.png)
-
 A fully‑playable command‑line implementation of **Nine Men’s Morris** that pits a human player (`O`) against an AI opponent (`X`).  In addition to the classic rules, this variant introduces **time‑bomb power‑ups** and an **undo** system, giving the ancient board game a tactical twist – all in fewer than 1 000 lines of pure Python.
 
 > **Status:** Single‑file prototype ready for testing & feedback
